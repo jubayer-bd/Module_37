@@ -48,3 +48,16 @@
   align-items: center;
   margin: auto;
 }
+
+.classFriends {
+  border: 2px solid blue;
+  border-radius: 20px;
+  padding: 10px 30px;
+  margin: 10px;
+}
+.classFriend {
+  border: 2px solid blue;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
